@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -W --keep-going
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = sphinx-build -n
 PYTEST        = pytest
 PAPER         =
 BUILDDIR      = build
